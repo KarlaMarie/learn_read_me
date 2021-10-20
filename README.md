@@ -9,7 +9,8 @@
 * 1tsp vanilla extract
 * 1tsp of baking powder
 * A pinch of salt
-* 1 egg•100g-200g chocolate or chocolate chips
+* 1 egg
+* 100g-200g chocolate or chocolate chips
 
 ## Method
 * Add the sugar and melted butter in a bowl and mix together –a wooden spoon is fine, no need for a whisk.
