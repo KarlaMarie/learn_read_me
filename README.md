@@ -1,6 +1,6 @@
 # How to make Easy Chocolate Chip Cookies
 
-[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)](https://www.thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
+![image](https://github.com/KarlaMarie/learn_read_me/blob/main/cookies.jpeg)
 
 ## Ingredients
 * 225g (1 cup) caster sugar
