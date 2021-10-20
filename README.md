@@ -1,6 +1,6 @@
 # How to make Easy Chocolate Chip Cookies
 
-![cookies](http://https://i.ytimg.com/vi/eh3cv5QQYZY/maxresdefault.jpg)
+![cookies](https://github.com/KarlaMarie/learn_read_me/commit/b2366abaf93c29185da530b612e3905a50ba5ca7)
 
 ## Ingredients
 * 225g (1 cup) caster sugar
